@@ -1,0 +1,8 @@
+{
+  "name": "MuscleMaster",
+  "description": "A comprehensive fitness routine and nutrition guide for muscle building, featuring daily reminders and exercise demonstrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
